@@ -1,0 +1,14 @@
+bim492\SearchByCategoriesStrategy.class
+bim492\SearchStrategy.class
+bim492\RecipeRatingDisplay.class
+bim492\RecipeFactory.class
+bim492\RecipeRatingObserver.class
+bim492\RecipeSearcher.class
+bim492\ModifyRecipeCommand.class
+bim492\Recipe.class
+bim492\SearchByTagsStrategy.class
+bim492\RecipeModificationInvoker.class
+bim492\RecipeRating.class
+bim492\Command.class
+bim492\SearchByIngredientsStrategy.class
+bim492\RecipeManagementSystem.class
